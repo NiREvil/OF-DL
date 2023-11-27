@@ -89,5 +89,5 @@ You can select what media you want to download from each account by changing the
 
 For instance, setting "DownloadPosts" to "false" will disable the download of media from a users main feed.
 # any questions
-[TG ID](https://t.me/NiREvil)
+[My Telegram ID](https://t.me/NiREvil)
  
