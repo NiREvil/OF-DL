@@ -1,8 +1,6 @@
 # OF-DL
 Scrape all the media from an OnlyFans account
 
-Join the discord [here](https://discord.com/invite/6bUW8EJ53j)
-
 # Documentation
 Please refer to https://of-dl.gitbook.io/of-dl/ for instuctions on:
 - Requirements
@@ -23,6 +21,3 @@ If you have any questions or issues please raise them on here, all I ask is that
 # Disclaimers
 This tool is not associated or involved with Onlyfans in any way. 
 I am not responsible for anything that happens to you or your account when using the tool.
-
-# Donations
-If you would like to donate then here is a link to my ko-fi page https://ko-fi.com/sim0n00ps. Donations are not required but are very much appreciated :)
