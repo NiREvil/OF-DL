@@ -21,3 +21,5 @@ If you have any questions or issues please raise them on here, all I ask is that
 # Disclaimers
 This tool is not associated or involved with Onlyfans in any way. 
 I am not responsible for anything that happens to you or your account when using the tool.
+
+# [Thanks to sim0n00ps](https://github.com/sim0n00ps/OF-DL/tree/master)
